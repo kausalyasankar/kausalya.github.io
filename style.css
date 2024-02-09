@@ -47,7 +47,7 @@ footer {
 }
 .profile-picture {
     border-radius: 50%;
-    max-width: 100%; /* Adjust the size as needed */
+    max-width: 20%; /* Adjust the size as needed */
     height: auto;
     margin-bottom: 15px;
 }
