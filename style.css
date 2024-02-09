@@ -45,9 +45,11 @@ footer {
     padding: 10px 0;
     text-align: center;
 }
+
 .profile-picture {
     border-radius: 50%;
-    max-width: 20%; /* Adjust the size as needed */
+    max-width: 150px; /* Adjust the size as needed */
     height: auto;
-    margin-bottom: 15px;
+    float: left; /* Position the picture to the left */
+    margin-right: 20px; /* Add some space between the picture and text */
 }
