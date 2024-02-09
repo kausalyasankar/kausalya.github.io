@@ -46,23 +46,23 @@ footer {
     text-align: center;
 }
 
-.profile-picture {
+/* .profile-picture {
     border-radius: 50%;
     max-width: 150px; /* Adjust the size as needed */
     height: auto;
     float: left; /* Position the picture to the left */
     margin-right: 20px; /* Add some space between the picture and text */
-}
+} */
 
 header {
     overflow: auto; /* Clear the float */
 }
 
-/* Adjustments for smaller screens */
+/* /* Adjustments for smaller screens */
 @media screen and (max-width: 600px) {
     .profile-picture {
         float: none; /* Center the picture on smaller screens */
         margin: 0 auto;
         display: block;
-    }
+    } */
 }
